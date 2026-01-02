@@ -1,4 +1,4 @@
-import { ClientOnly, getRouteApi } from '@tanstack/react-router'
+import { getRouteApi } from '@tanstack/react-router'
 import type { Address } from 'ox'
 import { InfoCard } from '#comps/InfoCard'
 import { RelativeTime } from '#comps/RelativeTime'
